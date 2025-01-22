@@ -14,5 +14,5 @@ export const logo = [
         </g>
       </g>
     </g>
-  </g>`,
+  </g>`, 
 ]

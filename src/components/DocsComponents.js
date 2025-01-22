@@ -14,7 +14,7 @@ const DocsComponents = (props) => (
           height="160px"
           alt="CoreUI PRO hexagon"
         />
-      </div>
+      </div> 
       <div className="col-md col-12 px-lg-4">
         Our Admin Panel isn’t just a mix of third-party components. It’s{' '}
         <strong>

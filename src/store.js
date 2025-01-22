@@ -12,7 +12,7 @@ const changeState = (state = initialState, { type, ...rest }) => {
     default:
       return state
   }
-}
+} 
 
 const store = createStore(changeState)
 export default store
